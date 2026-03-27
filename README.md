@@ -64,20 +64,20 @@ BREADY → Response handshake
 ---
 
 ## 📁 Project Structure
-I2C-to-AXI4Lite-converter/
-- src/
+**I2C-to-AXI4Lite-converter**/
+- **src*/
   - i2c_slave.v
   - i2c_to_axi_ctrl.v
   - axi_memory.v
   - top_i2c_axi.v
 
-- tb/
+- **tb*/
   - tb_i2c_slave.v
 
-- waveforms/
+- **waveforms*/
   - simulation_result.png
 
-- README.md
+- **README.md*
 
 ---
 
